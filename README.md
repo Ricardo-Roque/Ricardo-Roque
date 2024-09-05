@@ -9,10 +9,10 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ricardo-Java" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg"/>
-  <img align="center" alt="Ricardo-Spring" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg">
-  <img align="center" alt="Ricardo-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ricardo-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ricardo-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ricardo-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ricardo-Java" height="35" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg"/>
+  <img align="center" alt="Ricardo-Spring" height="35" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg">
+  <img align="center" alt="Ricardo-Python" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ricardo-Js" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ricardo-HTML" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ricardo-CSS" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
