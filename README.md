@@ -6,6 +6,8 @@
   <img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Roque&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="Ricardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
