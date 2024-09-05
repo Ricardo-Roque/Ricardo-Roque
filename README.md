@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, I am Ricardo Roque 👋
 
 <div align="center">
   <a href="https://github.com/Ricardo-Roque">
