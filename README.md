@@ -7,13 +7,20 @@
 
 ###
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ricardo-Java" height="35" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg"/>
-  <img align="center" alt="Ricardo-Spring" height="35" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg">
-  <img align="center" alt="Ricardo-Python" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ricardo-Js" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ricardo-HTML" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ricardo-CSS" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
 </div>
 
 ##
