@@ -7,7 +7,7 @@
 
 #
 
-<div align="left" style="margin-bottom: 20px;"> 
+<div align="center" style="margin-bottom: 10px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
 </div>
 
-<div align="left" style="margin-top: 0;"> 
+<div align="center" style="margin-top: 5px;"> 
   <a href="https://discord.com" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
