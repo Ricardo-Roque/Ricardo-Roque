@@ -1,12 +1,11 @@
 # Hi, I am Ricardo Roque 👋
 
 <div align="center">
-  <a href="https://github.com/Ricardo-Roque">
-  <img align="center" height="180em" width="370" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Roque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Roque&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-Roque&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricardo-Roque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-##
+###
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricardo-Java" height="35" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg"/>
