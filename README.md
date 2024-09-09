@@ -23,9 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
 </div>
 
-<div style="margin-top: 20px;"></div>
-
-<div align="left">
+<div align="left" style="margin-top: 20px;">
   <a href="" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
